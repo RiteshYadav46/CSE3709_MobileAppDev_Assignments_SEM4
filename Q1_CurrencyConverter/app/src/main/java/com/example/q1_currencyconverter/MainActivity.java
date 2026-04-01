@@ -15,7 +15,7 @@ import com.example.q1_currencyconverter.R;
  */
 public class MainActivity extends AppCompatActivity {
     // Basic exchange rates (relative to 1 USD)
-    double USD = 1.0, INR = 83.0, JPY = 150.0, EUR = 0.92;
+    double USD = 1.0, INR = 95.0, JPY = 150.0, EUR = 0.95;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
